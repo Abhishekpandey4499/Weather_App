@@ -6,7 +6,7 @@
 
 This is a simple web application that allows users to get the current weather information for a given city. The app uses the OpenWeatherMap API to retrieve weather data.
 
-The live version of this project can be accessed [here](https://weatherapp-n8je.onrender.com/).
+The live version of this project can be accessed [here](https://weatherapp-new-n2ad.onrender.com).
 
 ## Features
 
